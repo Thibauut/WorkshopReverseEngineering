@@ -96,11 +96,3 @@ En 1995 Microsoft sort officiellement Windows 95. Pour utiliser ce nouveau syst�
 
 #### Challenge 7
 Microsoft à appris de son erreur et sort deux nouvelles versions de son système, Windows 95 B et C, avec un tout nouvel algorithme de vérification de code de licence. Vous pensez vraiment que cet algorithme est robuste cette fois-ci ?
-
-### Thème 3 - Tricks
-
-#### Challenge 8
-Dans ce challenge il vaut faudra un peu de chance, ou un peu de ruse.
-
-#### Challenge 9
-https://www.youtube.com/watch?v=HodRJ1cdW-0
